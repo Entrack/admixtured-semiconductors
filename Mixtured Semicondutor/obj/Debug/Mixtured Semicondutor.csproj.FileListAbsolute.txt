@@ -1,0 +1,9 @@
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Debug\Mixtured Semicondutor.exe.config
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Debug\Mixtured Semicondutor.exe
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Debug\Mixtured Semicondutor.pdb
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured Semicondutor.csprojResolveAssemblyReference.cache
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured_Semicondutor.Properties.Resources.resources
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured Semicondutor.csproj.GenerateResource.Cache
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured Semicondutor.exe
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured Semicondutor.pdb
+c:\users\black overlord\documents\visual studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Debug\Mixtured_Semicondutor.AdmixturedSemicondutor.resources

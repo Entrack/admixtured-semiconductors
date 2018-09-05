@@ -1,0 +1,9 @@
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Release\Mixtured Semicondutor.exe.config
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Release\Mixtured Semicondutor.exe
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\bin\Release\Mixtured Semicondutor.pdb
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured Semicondutor.csprojResolveAssemblyReference.cache
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured_Semicondutor.AdmixturedSemicondutor.resources
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured_Semicondutor.Properties.Resources.resources
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured Semicondutor.csproj.GenerateResource.Cache
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured Semicondutor.exe
+C:\Users\Black Overlord\Documents\Visual Studio 2015\Projects\Mixtured Semicondutor\Mixtured Semicondutor\obj\Release\Mixtured Semicondutor.pdb
