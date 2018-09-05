@@ -1,2 +1,1 @@
-# admixtured-semiconductors
-This program displays various parameters of GaAs or Ge injected semiconductor.
+This program **displays various parameters of GaAs or Ge injected semiconductor**. The code is the example of how you shouldn't organize it, but nevertheless it works and **displays temperature curves** (Fermi Distribution, Charges Concentration, Charged Mixtures Concentration, Charges Mobility, Unity Conductivity). You can set your own: Eg, mc, mv. Add admixtures with parameters like: Ea, Na, Ed, Nd. And set temperature boundaries.
